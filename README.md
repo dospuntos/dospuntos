@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-- I'm here to revamp your web presence through clean, efficient and affordable web design.
-- I've got 10+ years of experience building websites using HTML/CSS, Joomla and WordPress.
-- I’m currently learning to build websites and apps using React.js
+As a web design professional, I offer comprehensive solutions to enhance your online presence with streamlined and cost-effective designs. With over a decade of experience, I have honed my skills in HTML/CSS, Joomla, and WordPress to deliver exceptional websites. Furthermore, I am continually expanding my repertoire by studying React.js to develop cutting-edge websites and applications.
